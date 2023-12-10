@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace DefaultNamespace.Levels
+namespace Levels
 {
     public class LevelUnlocker:MonoBehaviour
     {

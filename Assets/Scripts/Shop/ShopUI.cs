@@ -1,5 +1,4 @@
-﻿using System;
-using DefaultNamespace.Play;
+﻿using DefaultNamespace.Play;
 using UnityEngine;
 using UnityEngine.UI;
 

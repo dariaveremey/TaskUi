@@ -15,7 +15,6 @@ namespace DefaultNamespace
         private void Start()
         {
             _ticketCount = 1000;
-           // Type type = _tickets.Equals(_tickets);
         }
 
         private PlayerPrefs _tickets = new PlayerPrefs();
